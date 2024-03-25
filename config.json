@@ -1,6 +1,6 @@
 {
   "server": "me.dm",
-  "home-timeline-length": 200,
-  "max-followings": 100,
+  "home-timeline-length": 100,
+  "max-followings": 80,
   "from-notifications": 1
 }
